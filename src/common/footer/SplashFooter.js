@@ -17,7 +17,8 @@ const SplashFooter = () => {
                         <div className="col-lg-2">
                         <ul className="footer-social list-unstyled">
                             {/* <li><Link to="https://facebook.com/"><FaFacebookF /></Link></li> */}
-                            <li><Link to="https://twitter.com/kleeptoofficial"><FaXTwitter /></Link></li>
+                            {/* <li><Link to="https://twitter.com/kleeptoofficial"><FaXTwitter /></Link></li> */}
+                            <li><a href="https://twitter.com/kleeptoofficial" target="_blank" rel="noopener noreferrer"><FaXTwitter /></a></li>
                             {/* <li><Link to="https://www.instagram.com/"><FaInstagram /></Link></li> */}
                         </ul>
                         </div>

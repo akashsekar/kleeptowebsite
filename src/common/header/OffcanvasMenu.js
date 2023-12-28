@@ -51,9 +51,11 @@ const OffcanvasMenu = ({offcanvasShow, offcanvasHide}) => {
                                             <a href="https://facebook.com/"><FaFacebookF /></a>
                                         </li> */}
 
-                                        <li>
-                                        <Link to="https://twitter.com/kleeptoofficial"><FaXTwitter /></Link>
-                                        </li>
+                                        
+                                        <li><a href="https://twitter.com/kleeptoofficial" target="_blank" rel="noopener noreferrer"><FaXTwitter /></a></li>
+
+                                        {/* <Link to="https://twitter.com/kleeptoofficial"><FaXTwitter /></Link> */}
+                                        
                                         {/* <li>
                                             <a href="https://www.behance.net/"><FaBehance /></a>
                                         </li>

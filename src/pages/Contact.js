@@ -31,16 +31,16 @@ const Contact = () => {
                                 <FormTwo />
                             </div>
                         </div>
-                        <div className="col-xl-5 col-lg-6 offset-xl-1">
+                        <div className="col-xl-5 col-lg-6 offset-xl-1" style={{position:"relative"}}>
                             <div className="contact-info mb--100 mb_md--30 mt_md--0 mt--150">
                                 <h4 className="title">Telegram</h4>
                                 <p>Our service handler will get back to you in 8-12 hours.</p>
-                                <h4 className="phone-number" style={{fontSize:"1.5rem"}}><a href="https://t.me/Kopkleepto">@Kopkleepto</a></h4>
+                                <h4 className="phone-number" style={{fontSize:"120%"}}><a href="https://t.me/Kopkleepto" target="_blank" rel="noopener noreferrer">@Kopkleepto</a></h4>
                             </div>
-                            <div className="contact-info mb--30">
+                            <div className="contact-info mb--30"  style={{position:"relative"}}>
                                 <h4 className="title">Email</h4>
                                 <p>Our team will get back to you in 8-12 hours.</p>
-                                <h4 className="phone-number" style={{fontSize:"1.5rem"}}><a href="mailto:kleeptoofficial@gmail.com">kleeptoofficial@gmail.com</a></h4>
+                                <h4 className="phone-number" style={{fontSize:"120%"}}><a href="mailto:kleeptoofficial@gmail.com">kleeptoofficial@gmail.com</a></h4>
                             </div>
                         </div>
                     </div>
