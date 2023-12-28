@@ -34,13 +34,13 @@ const Contact = () => {
                         <div className="col-xl-5 col-lg-6 offset-xl-1">
                             <div className="contact-info mb--100 mb_md--30 mt_md--0 mt--150">
                                 <h4 className="title">Telegram</h4>
-                                <p>Our team will get back to in 8-12 hours.</p>
-                                <h4 className="phone-number"><a href="www.telegram.com">@Kleeptotelegram</a></h4>
+                                <p>Our service handler will get back to you in 8-12 hours.</p>
+                                <h4 className="phone-number" style={{fontSize:"1.5rem"}}><a href="https://t.me/Kopkleepto">@Kopkleepto</a></h4>
                             </div>
                             <div className="contact-info mb--30">
                                 <h4 className="title">Email</h4>
-                                <p>Our team will get back to in 8-12 hours.</p>
-                                <h4 className="phone-number"><a href="mailto:kleeptoofficial@gmail.com">kleeptoofficial@gmail.com</a></h4>
+                                <p>Our team will get back to you in 8-12 hours.</p>
+                                <h4 className="phone-number" style={{fontSize:"1.5rem"}}><a href="mailto:kleeptoofficial@gmail.com">kleeptoofficial@gmail.com</a></h4>
                             </div>
                         </div>
                     </div>
